@@ -25,4 +25,4 @@ services:
 
 networks:
     webnet:
-        external: truet
+        external: true
